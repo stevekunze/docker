@@ -1,0 +1,12 @@
+--- 
+version: '3'
+
+services:
+  gotify:
+    image: gotify/server
+    ports:
+      - 8010:80
+    environment:
+      GOTIFY_DEFAULTUSER_PASS: 'admin'
+    volumes:
+      - '/home/admind/gotify_data:/app/data'
