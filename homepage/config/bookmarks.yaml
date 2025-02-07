@@ -1,0 +1,27 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
+
+- Developer:
+    - Github:
+        - abbr: GH
+          href: https://github.com/stevekunze
+
+- Social:
+    - Reddit:
+        - abbr: RE
+          href: https://reddit.com/
+
+- Entertainment:
+    - YouTube:
+        - abbr: YT
+          href: https://youtube.com/
+    - Twitch:
+        - abbr: TTV
+          href: https://twitch.tv/ 
+
+- Linux: 
+    - ExplainShell:
+       - abbr: ES
+         href: https://explainshell.com/#
+

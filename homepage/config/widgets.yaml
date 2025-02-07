@@ -1,0 +1,38 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/info-widgets/
+
+- resources:
+    cpu: true
+    memory: true
+    disk: /
+    cputemp: true
+    tempmin: 0 # optional, minimum cpu temp
+    tempmax: 100 # optional, maximum cpu temp
+    uptime: true
+    units: metric # only used by cpu temp, options: 'imperial' or 'metric'
+    refresh: 3000 # optional, in ms
+    diskUnits: bytes # optional, bytes (default) or bbytes. Only applies to disk
+    network: true # optional, uses 'default' if true or specify a network interf
+
+- search:
+    provider: duckduckgo
+    target: _blank
+
+# - widget:
+#    type: fritzbox
+#    url: http://192.168.178.1
+
+- datetime:
+    text_size: xl
+    locale: nl
+    format:
+        dateStyle: short
+        timeStyle: long
+    hourCycle: h23
+
+- widget:
+    type: nextcloud
+    url: https://cloud.familiekunze.org:443
+    username: steve
+    password: UpF;_Q34AN9_FVjf

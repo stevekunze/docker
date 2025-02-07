@@ -1,0 +1,431 @@
+[2025-02-07T09:44:54.833Z] info: docker.yaml was copied to the config folder
+[2025-02-07T09:44:54.835Z] info: services.yaml was copied to the config folder
+[2025-02-07T09:44:54.836Z] info: bookmarks.yaml was copied to the config folder
+[2025-02-07T09:44:54.846Z] info: widgets.yaml was copied to the config folder
+[2025-02-07T09:44:54.847Z] info: custom.css was copied to the config folder
+[2025-02-07T09:44:54.848Z] info: custom.js was copied to the config folder
+[2025-02-07T09:44:54.996Z] info: kubernetes.yaml was copied to the config folder
+[2025-02-07T12:55:41.894Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T12:55:41.897Z] error: end of the stream or a document separator is expected (14:1)
+
+ 11 |     provider: duckduckgo
+ 12 |     target: _blank
+ 13 | 
+ 14 | widget:
+------^
+ 15 |   type: fritzbox
+ 16 |   url: http://192.168.178.1
+[2025-02-07T12:55:42.019Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T12:55:42.020Z] error: end of the stream or a document separator is expected (14:1)
+
+ 11 |     provider: duckduckgo
+ 12 |     target: _blank
+ 13 | 
+ 14 | widget:
+------^
+ 15 |   type: fritzbox
+ 16 |   url: http://192.168.178.1
+[2025-02-07T12:55:42.239Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T12:55:42.240Z] error: end of the stream or a document separator is expected (14:1)
+
+ 11 |     provider: duckduckgo
+ 12 |     target: _blank
+ 13 | 
+ 14 | widget:
+------^
+ 15 |   type: fritzbox
+ 16 |   url: http://192.168.178.1
+[2025-02-07T13:29:21.228Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:21.228Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:21.314Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:21.314Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:21.549Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:21.549Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:21.753Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:21.754Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:41.456Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:41.456Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:41.459Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:29:41.459Z] error: end of the stream or a document separator is expected (34:1)
+
+ 31 |         timeStyle: long
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | widget:
+------^
+ 35 |   type: nextcloud
+ 36 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:41.632Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:29:41.633Z] error: end of the stream or a document separator is expected (34:1)
+
+ 31 |         timeStyle: long
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | widget:
+------^
+ 35 |   type: nextcloud
+ 36 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:41.636Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:41.637Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:41.837Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:29:41.837Z] error: end of the stream or a document separator is expected (34:1)
+
+ 31 |         timeStyle: long
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | widget:
+------^
+ 35 |   type: nextcloud
+ 36 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:41.848Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:41.848Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:52.639Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:52.639Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:52.977Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:52.978Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:29:53.815Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:29:53.816Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:30:39.911Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:30:39.911Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:30:40.215Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:30:40.216Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:30:41.308Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:30:41.308Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:30:42.112Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:30:42.113Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:30:43.249Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:30:43.250Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:30:53.781Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:30:53.781Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:00.860Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:31:00.860Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:01.180Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:31:01.180Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:11.607Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:31:11.608Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:11.610Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:31:11.610Z] error: end of the stream or a document separator is expected (34:1)
+
+ 31 |         timeStyle: long
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | widget:
+------^
+ 35 |   type: nextcloud
+ 36 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:11.784Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:31:11.785Z] error: end of the stream or a document separator is expected (34:1)
+
+ 31 |         timeStyle: long
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | widget:
+------^
+ 35 |   type: nextcloud
+ 36 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:11.788Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:31:11.789Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:12.020Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:31:12.020Z] error: end of the stream or a document separator is expected (34:1)
+
+ 31 |         timeStyle: long
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | widget:
+------^
+ 35 |   type: nextcloud
+ 36 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:12.024Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:31:12.024Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:39.283Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:31:39.283Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:39.572Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:31:39.573Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:40.498Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:31:40.498Z] error: YAMLException: end of the stream or a document separator is expected (20:1)
+
+ 17 | #        href: http://localhost/
+ 18 | #        description: Homepage  ...
+ 19 | 
+ 20 | widget:
+------^
+ 21 |   type: nextcloud
+ 22 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:50.871Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:31:50.872Z] error: end of the stream or a document separator is expected (35:1)
+
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | 
+ 35 | widget:
+------^
+ 36 |   type: nextcloud
+ 37 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:50.893Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:31:50.894Z] error: end of the stream or a document separator is expected (35:1)
+
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | 
+ 35 | widget:
+------^
+ 36 |   type: nextcloud
+ 37 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:51.081Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:31:51.081Z] error: end of the stream or a document separator is expected (35:1)
+
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | 
+ 35 | widget:
+------^
+ 36 |   type: nextcloud
+ 37 |   url: https://cloud.familiekun ...
+[2025-02-07T13:31:52.920Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-07T13:31:52.920Z] error: end of the stream or a document separator is expected (35:1)
+
+ 32 |     hourCycle: h23
+ 33 | 
+ 34 | 
+ 35 | widget:
+------^
+ 36 |   type: nextcloud
+ 37 |   url: https://cloud.familiekun ...
+[2025-02-07T13:32:23.166Z] warn: <service-helpers> Error parsing service "widget" from config. Ensure required fields are present.
+[2025-02-07T13:32:23.168Z] warn: <service-helpers> Error parsing service "widget" from config. Ensure required fields are present.
+[2025-02-07T13:32:23.503Z] warn: <service-helpers> Error parsing service "widget" from config. Ensure required fields are present.
+[2025-02-07T13:32:58.787Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:32:58.787Z] error: YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 |     - My First Service:
+  7 |         href: https://localhost/
+  8 |         description: Homepage is aw ...
+  9 |     widget:
+----------^
+ 10 |         type: nextcloud
+ 11 |         url: https://cloud.familiek ...
+[2025-02-07T13:32:58.790Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:32:58.791Z] error: YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 |     - My First Service:
+  7 |         href: https://localhost/
+  8 |         description: Homepage is aw ...
+  9 |     widget:
+----------^
+ 10 |         type: nextcloud
+ 11 |         url: https://cloud.familiek ...
+[2025-02-07T13:32:59.061Z] error: Failed to load services.yaml, please check for errors
+[2025-02-07T13:32:59.061Z] error: YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 |     - My First Service:
+  7 |         href: https://localhost/
+  8 |         description: Homepage is aw ...
+  9 |     widget:
+----------^
+ 10 |         type: nextcloud
+ 11 |         url: https://cloud.familiek ...
+[2025-02-07T13:38:31.466Z] error: undefined
+[2025-02-07T13:38:36.479Z] error: undefined
+[2025-02-07T13:38:42.394Z] error: undefined
+[2025-02-07T13:38:42.680Z] error: undefined
+[2025-02-07T13:38:45.709Z] error: undefined
+[2025-02-07T13:38:47.740Z] error: undefined
+[2025-02-07T13:38:51.440Z] error: undefined
+[2025-02-07T13:38:55.726Z] error: undefined
+[2025-02-07T13:38:56.464Z] error: undefined
+[2025-02-07T13:39:02.761Z] error: undefined
+[2025-02-07T13:39:06.906Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:39:10.367Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:39:10.915Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:39:20.438Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:39:21.257Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:40:03.512Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:41:17.176Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:42:04.892Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:42:08.272Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:42:34.402Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2025-02-07T13:44:59.590Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://cloud.familiekunze.org//ocs/v2.php/apps/serverinfo/api/v1/info?format=json
