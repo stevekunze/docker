@@ -30,9 +30,3 @@
         dateStyle: short
         timeStyle: long
     hourCycle: h23
-
-- widget:
-    type: nextcloud
-    url: https://cloud.familiekunze.org:443
-    username: steve
-    password: UpF;_Q34AN9_FVjf

@@ -6,22 +6,31 @@
     - Github:
         - abbr: GH
           href: https://github.com/stevekunze
+          icon: github-light.png
 
 - Social:
     - Reddit:
         - abbr: RE
           href: https://reddit.com/
+          icon: reddit.png
 
 - Entertainment:
     - YouTube:
         - abbr: YT
           href: https://youtube.com/
+          icon: youtube.png
     - Twitch:
         - abbr: TTV
           href: https://twitch.tv/ 
+          icon: twitch.png
 
 - Linux: 
     - ExplainShell:
        - abbr: ES
          href: https://explainshell.com/#
+         icon: shell.png
+    - PVE Helper-Scripts: 
+      - abbr: PVEHS
+        href: https://community-scripts.github.io/ProxmoxVE/scripts
+        icon: proxmox.png
 
